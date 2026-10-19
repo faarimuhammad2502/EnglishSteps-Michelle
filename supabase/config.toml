@@ -1,0 +1,2 @@
+[functions.englishsteps-admin]
+verify_jwt = true
